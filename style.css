@@ -1,0 +1,55 @@
+.fmain
+{
+background-image:linear-gradient(to left,rgb(116, 190, 240),rgb(247, 117, 214)) ;
+}
+.NameAndPara
+{
+
+background-color:white ;
+border-radius: 35px;
+text-align: center;
+font-size: large;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.insPara
+{
+font-size:x-large;
+font-style:italic;
+}
+
+}
+
+.hobby
+{
+    .inhobb,h3{text-align:left;}
+    background-color:white ;
+    border-radius: 30px;
+    text-align: center;
+    width:100%;
+}
+
+.qu
+{
+    background-color:white ;
+    border-radius: 35px;
+    text-align: center;
+}
+.l{
+background-image:linear-gradient(to left,rgb(116, 190, 240),rgb(247, 117, 214)) ;
+border-radius: 35px;
+text-align: center;
+font-size: 50px;
+font-style: italic ;
+font-family:'Times New Roman', Times, serif;
+}
+.para
+{
+    font-size:xx-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: italic;
+}
+.li
+{
+    font-size:larger;
+    font-family:'Times New Roman', Times, serif;
+font-style: italic;
+}
